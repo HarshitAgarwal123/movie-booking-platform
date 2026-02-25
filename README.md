@@ -19,7 +19,10 @@ Tech Stack:
 Spring Boot
 MySQL (schema provided)
 
-Database was not provisioned locally; schema scripts are included for reference.
+Trade-offs:
+
+Focused on browsing feature instead of booking flow to keep implementation simple and aligned with assignment scope.
+Database scripts are included but not executed locally.
 
 Scope:
 Implemented – Show browsing
